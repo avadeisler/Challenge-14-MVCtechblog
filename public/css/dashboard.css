@@ -1,9 +1,9 @@
 .post-container {
-  transition: background-color 0.3s;
+  transition: background-color 0.4s;
 }
 
 .post-container:hover {
-  border-right: 1em solid #656565;
-  background-color: rgba(126, 126, 126, 0.2);
-  border-radius: 0.5em;
+  border-right: 1.1em solid #077856;
+  background-color: rgba(15, 245, 100, 0.2);
+  border-radius: 0.6em;
 }
